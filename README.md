@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **my portfolio**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently practicing **Javascript**
 
 - 🤝 I’m looking for help with **guidance in this domain.**
 
