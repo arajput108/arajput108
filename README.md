@@ -8,6 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/vajra93000" target="blank"><img src="https://img.shields.io/twitter/follow/vajra93000?logo=twitter&style=for-the-badge" alt="vajra93000" /></a> </p>
 
+# 💫 About Me:
 - 🔭 I’m currently working on my projects.<br>
 - 🌱 I’m currently learning React JS & Linux.<br>
 - 💬 Ask me about:- Cyber Security, Geopolitics, Defense Forces & History.<br>
@@ -19,8 +20,8 @@
 <p align="left">
 <a href="https://twitter.com/vajra93000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vajra93000" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aakash rajput🇮🇳" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash rajput🇮🇳" height="30" width="40" /></a>
-<a href="https://instagram.com/vajra93000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vajra93000" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@yodha108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yodha108" height="30" width="40" /></a>
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Aakash-Rajput-%E0%A4%86%E0%A4%95%E0%A4%BE%E0%A4%B6-%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%AA%E0%A5%81%E0%A4%A4?ch=10&oid=409424791&share=6cf1b747&srid=pIXOh&target_type=user)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
