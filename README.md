@@ -8,11 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/vajra93000" target="blank"><img src="https://img.shields.io/twitter/follow/vajra93000?logo=twitter&style=for-the-badge" alt="vajra93000" /></a> </p>
 
-- 🔭 I’m currently working on **my portfolio**
-
-- 🌱 I’m currently practicing **Javascript**
-
-- 🤝 I’m looking for help with **guidance in this domain.**
+- 🔭 I’m currently working on my projects.
+🌱 I’m currently learning React JS & Linux.
+💬 Ask me about Cyber Security, Geopolitics, Defense Forces & History.
+⚡ Fun fact: Pakistan holds world's largest surrender record of 93000 soldiers to India during 1971 INDO-PAK war.
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/aakash-rajput%F0%9F%87%AE%F0%9F%87%B3-064b361b4/)**
 
