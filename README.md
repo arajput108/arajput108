@@ -16,7 +16,7 @@
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/aakash-rajput%F0%9F%87%AE%F0%9F%87%B3-064b361b4/)**
 
 
-<h3 align="left">## 🌐 Socials:</h3>
+## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/vajra93000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vajra93000" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/aakash-rajput%F0%9F%87%AE%F0%9F%87%B3-064b361b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash rajput🇮🇳" height="30" width="40" /></a>
