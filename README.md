@@ -63,28 +63,6 @@
 
 ## :zap: Achievements & Profile:
 
-  <!-- <div align= "left">
-            <td style="border-left: 1px solid #dddddd; padding: 10px;" width="400">
-              <img src="https://tryhackme-badges.s3.amazonaws.com/vajra108.png" alt="THM Badge" width="400" />
-              <br>
-              <a href="https://tryhackme.com/r/p/vajra108" target="_blank">TryHackMe Profile</a>
-            </td>
-        <br>
-        <br>
-            <td style="border-right: 1px solid #dddddd; padding: 10px;" width="150">
-              <img src="https://github.com/arajput108/arajput108/blob/main/Images/Holopin-%201.png" alt="Holopin Badge" width="150" />
-              <br>
-              <strong>Holopin Badge</strong>
-            </td>
-        <br>
-        <br>
-          <td style="border-right: 1px solid #dddddd; padding: 10px;" width="150">
-              <img src="https://github.com/arajput108/arajput108/blob/main/Images/Early%20Bird%20Pegasaurus.png" alt="Pegasaurus Badge" width="150" />
-              <br>
-              <strong>Pegasaurus</strong>
-            </td>        
-  </div> -->
-
 <div align="center">
     <table>
         <tr>
