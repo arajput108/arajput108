@@ -55,8 +55,8 @@
 ## :zap: Open Source Programs & Achievements
 
   <!-- <div align= "left">
-            <td style="border-left: 1px solid #dddddd; padding: 10px;" width="300">
-              <img src="https://tryhackme-badges.s3.amazonaws.com/vajra108.png" alt="THM Badge" width="300" />
+            <td style="border-left: 1px solid #dddddd; padding: 10px;" width="400">
+              <img src="https://tryhackme-badges.s3.amazonaws.com/vajra108.png" alt="THM Badge" width="400" />
               <br>
               <a href="https://tryhackme.com/r/p/vajra108" target="_blank">TryHackMe Profile</a>
             </td>
@@ -79,8 +79,8 @@
 <div align="center">
     <table>
         <tr>
-            <td style="border-left: 1px solid #dddddd; padding: 10px;" width="300">
-                <img src="https://tryhackme-badges.s3.amazonaws.com/vajra108.png" alt="THM Badge" width="300" />
+            <td style="border-left: 1px solid #dddddd; padding: 10px;" width="350">
+                <img src="https://tryhackme-badges.s3.amazonaws.com/vajra108.png" alt="THM Badge" width="350" />
                 <br>
                 <a href="https://tryhackme.com/r/p/vajra108" target="_blank">TryHackMe Profile</a>
             </td>
