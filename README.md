@@ -2,10 +2,19 @@
 <h1 align="center">Namaskar!!🙏, I'm Aakash Rajput🌞</h1>
 <h3 align="center">A passionate frontend developer from भारत (India)🇮🇳 </h3>
 
-[![](https://visitcount.itsvg.in/api?id=arajput108&icon=5&color=11)](https://visitcount.itsvg.in)
+ <a href="https://github.com/arajput108"> 
+    <img src="https://github.com/arajput108/arajput108/blob/main/Images/senior_dev.gif" alt="Aakash GitHub" height='300' width='400'/>  
+  </a>
+
+  <a href="https://github.com/arajput108"> 
+    <img src="https://github.com/arajput108/arajput108/blob/main/Images/data_lie.gif" alt="Data_Doesn't lie" height='300' width='400' />
+  </a>
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arajput108&label=Profile%20views&color=0e75b6&style=flat" alt="arajput108" /> </p> -->
 
 
+
+[![](https://visitcount.itsvg.in/api?id=arajput108&icon=5&color=11)](https://visitcount.itsvg.in)
 <p align="left"> <a href="https://twitter.com/vajra93000" target="blank"><img src="https://img.shields.io/twitter/follow/vajra93000?logo=twitter&style=for-the-badge" alt="vajra93000" /></a> </p>
 
 # 💫 About Me:
