@@ -1,4 +1,4 @@
-  <img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" align="left" width="50" height="50" alt="image"/>
+  <img src="https://github.com/arajput108/arajput108/blob/main/Images/om-svgrepo-com.svg" align="left" width="50" height="50" alt="image"/>
 <h1 align="center">Namaskar!!🙏, I'm Aakash Rajput🌞</h1>
 
 <!-- Who Am I -->
