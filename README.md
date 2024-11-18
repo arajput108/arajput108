@@ -1,15 +1,18 @@
+<!---------------------------------------------------------- Intial Intoduduciton ------------------------------------------------------->
   <img src="https://github.com/arajput108/arajput108/blob/main/Images/om-svgrepo-com.svg" align="left" width="50" height="50" alt="image"/>
-<h1 align="center">Namaskar!!🙏, I'm Aakash Rajput🌞</h1>
+<!-- <h1 align="center">Namaskar!!🙏, I'm Aakash Rajput🌞</h1> -->
 
-<!-- Who Am I -->
+<!---------------------------------------------------------- Who Am I ------------------------------------------------------->
 <h2 align="center">
   <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/V2hvIEFtIEk/karasha.png" width="200" alt="Who Am I">
 </h2>
 
+<!---------------------------------------------------------- Typing SVGs ------------------------------------------------------->
 <p align="center">
   <a href="https://github.com/1hehaq"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=435&lines=Frontend+Web+Dev;Ex+NCC+Cadet;Cyber+Security+Enthusiast;CTF+Player+•+Python+Dev;Defense%20Aficiondao" alt="Typing SVG" align="center"/></a>
 </p>
 
+<!---------------------------------------------------------- Code & Data Image ------------------------------------------------------->
 <!--<h3 align="center">A passionate frontend dev & Cyber Enthusiast from भारत (India)🇮🇳 </h3> -->
 
  <a href="https://github.com/arajput108"> 
@@ -23,7 +26,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=arajput108&label=Profile%20views&color=0e75b6&style=flat" alt="arajput108" /> </p> -->
 
 
-
+<!---------------------------------------------------------- About Section ------------------------------------------------------->
 [![](https://visitcount.itsvg.in/api?id=arajput108&icon=5&color=11)](https://visitcount.itsvg.in)
 <p align="left"> <a href="https://twitter.com/vajra93000" target="blank"><img src="https://img.shields.io/twitter/follow/vajra93000?logo=twitter&style=for-the-badge" alt="vajra93000" /></a> </p>
 
@@ -34,6 +37,8 @@
 - ⚡ Funniest fact: Pakistan holds world's largest surrender record of 93000 soldiers to India during 1971 INDO-PAK war.<br>
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/aakash-rajput%F0%9F%87%AE%F0%9F%87%B3-064b361b4/)** <br>
 
+
+<!---------------------------------------------------------- Social Accounts ------------------------------------------------------->
 ## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/vajra93000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vajra93000" height="30" width="40" /></a>
@@ -43,12 +48,16 @@
 <a href="https://auth.geeksforgeeks.org/user/arajput108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/arajput108/" height="30" width="40" /></a>
 </p><br>
 
+
+<!---------------------------------------------------------- Tech Stacks ------------------------------------------------------->
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=plastic&logo=tor-project&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <br>
 
 <!-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <br> -->
 
+
+<!---------------------------------------------------------- GitHub Stats -------------------------------------------------------->
 # 📊 GitHub Stats:
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arajput108&theme=github_dark" /><br>
@@ -70,9 +79,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arajput108&show_icons=true&locale=en" alt="arajput108" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arajput108&" alt="arajput108" /></p> <br> -->
 
+
+<!---------------------------------------------------------- GitHub Trophies ------------------------------------------------------->
 ## 🏆 GitHub Trophies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arajput108" alt="arajput108" /></a> </p>
 
+<!---------------------------------------------------------- Achievements & Profile ------------------------------------------------------->
 ## :zap: Achievements & Profile:
 
 <div align="center">
@@ -101,7 +113,7 @@
     </table>
 </div>
 
-
+<!---------------------------------------------------------- Last Section ------------------------------------------------------->
 
  
 <br>
