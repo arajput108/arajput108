@@ -1,3 +1,4 @@
+  <img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" align="left" width="50" height="50" alt="image"/>
 <h1 align="center">Namaskar!!🙏, I'm Aakash Rajput🌞</h1>
 
 <!-- Who Am I -->
@@ -6,10 +7,8 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/1hehaq"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=435&lines=Frontend+Web+Dev;Ex+NCC+Cadet;Cyber+Security+Enthusiast;CTF+Player+•+Python+Dev;Defense%20Aficiondao%20%26%20Geopolitical+Aficiondao+•+Python+Dev" alt="Typing SVG" align="center"/></a>
+  <a href="https://github.com/1hehaq"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E7CFAA&center=true&vCenter=true&width=435&lines=Frontend+Web+Dev;Ex+NCC+Cadet;Cyber+Security+Enthusiast;CTF+Player+•+Python+Dev;Defense%20Aficiondao" alt="Typing SVG" align="center"/></a>
 </p>
-
-  <img src="https://github.com/user-attachments/assets/51542c5e-a09f-4c46-9ffd-e7b3046fa459" align="left" width="50" height="50" alt="image"/>
 
 <!--<h3 align="center">A passionate frontend dev & Cyber Enthusiast from भारत (India)🇮🇳 </h3> -->
 
