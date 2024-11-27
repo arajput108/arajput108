@@ -21,7 +21,7 @@
 
 
 <!---------------------------------------------------------- About Section ------------------------------------------------------->
-[![](https://visitcount.itsvg.in/api?id=arajput108&icon=5&color=11)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{UtkarshPrajapati}/count.svg)
 
 # 💫 About Me:
 - 🔭 I’m currently working on my projects.<br>
