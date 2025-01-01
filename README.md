@@ -58,7 +58,7 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arajput108&theme=github_dark" />
    <p align="center">
       <a>
-         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arajput108&theme=radical" alt="arajput108" /></p>
+         <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arajput108&theme=radical" alt="U$3r_$tr3@k" /></p>
       </a>
    </p>
 
