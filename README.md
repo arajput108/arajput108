@@ -1,14 +1,14 @@
 <!---------------------------------------------------------- Initial Intoduduciton ------------------------------------------------------->
   <img src="https://github.com/arajput108/arajput108/blob/main/Images/om-svgrepo-com.svg" align="left" width="50" height="50" alt="image"/>
   
-<!---------------------------------------------------------- Who Am I ------------------------------------------------------->
+<!---------------------------------------------------------- Who Am I ❓------------------------------------------------------->
 <h2 align="center">
   <img src="https://see.fontimg.com/api/renderfont4/z8mYw/eyJyIjoiZnMiLCJoIjoxMDgsInciOjEyNTAsImZzIjo4NiwiZmdjIjoiI0U3Q0ZBQSIsImJnYyI6IiMwMDAwMDAiLCJ0IjoxfQ/V2hvIEFtIEk/karasha.png" width="200" alt="Who Am I">
 </h2>
 
 <!---------------------------------------------------------- Typing SVGs ------------------------------------------------------->
 <p align="center">
-  <a href="https://github.com/arajput108"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF13&center=true&vCenter=true&width=435&lines=Frontend+Web+Dev;Ex+NCC+Cadet;Cyber+Security+Enthusiast;CTF+Player+•+Python+Dev;Defense%20Aficiondao" alt="Typing SVG" align="center"/></a>
+  <a href="https://github.com/arajput108"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF13&center=true&vCenter=true&width=435&lines=Frontend+Web+Dev;Ex+NCC+Cadet;Cyber+Security+Enthusiast;CTF+Player+•+Python+Dev;Defense%20Aficiondao" alt="Typing SVG" align="center"/></a> 
 </p>
 
 <!---------------------------------------------------------- Code & Data Image ------------------------------------------------------->
@@ -23,7 +23,7 @@
 <!---------------------------------------------------------- About Section ------------------------------------------------------->
 ![Visitor Count](https://profile-counter.glitch.me/{arajput108}/count.svg)
 
-# 💫 About Me:
+# <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About Me:
 - 🔭 I’m currently working on my projects.<br>
 - 🌱 I’m currently learning React JS & Linux.<br>
 - 💬 Ask & Discuss me about:- Cyber Security, Geopolitics, Defense Affairs & History.<br>
