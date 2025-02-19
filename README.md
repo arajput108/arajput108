@@ -12,12 +12,7 @@
 </p>
 
 <!---------------------------------------------------------- Code & Data Image ------------------------------------------------------->
- <a href="https://github.com/arajput108"> 
-    <img src="https://github.com/arajput108/arajput108/blob/main/Images/senior_dev.gif" alt="Aakash GitHub" height='300' width='400'/>  
-  </a>
-  <a href="https://github.com/arajput108"> 
-    <img src="https://github.com/arajput108/arajput108/blob/main/Images/data_lie.gif" alt="Data_Doesn't lie" height='300' width='400' />
-  </a>
+
 
 
 <!---------------------------------------------------------- About Section ------------------------------------------------------->
