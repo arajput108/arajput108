@@ -12,8 +12,7 @@
 </p>
 
 <!---------------------------------------------------------- About Section ------------------------------------------------------->
-![Visitor Count](https://profile-counter/{arajput108}/count.svg)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arajput108&label=Profile%20views&color=00FF00&style=flat" alt="arajput108" /> </p>
 
 
 # <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About Me:
