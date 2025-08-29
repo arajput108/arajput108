@@ -112,6 +112,9 @@
   ![](https://github-contributor-stats.vercel.app/api?username=arajput108&limit=5&theme=yeblu&combine_all_yearly_contributions=true) 
 </details>
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/arajput108)
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
 
