@@ -114,7 +114,11 @@
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/arajput108)
 
-
+ <p align="center">
+    <a href="http://s01.flagcounter.com/more/hOw"><img src="https://s01.flagcounter.com/count2/hOw/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_16/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0" alt="Typing SVG" /> 
+ </a> 
+ </p>
+ <p text align="center">Created on: <b>Oct 25,2025</b></p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
 
@@ -124,4 +128,5 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&pause=1000&color=00FF13&center=true&width=435&lines=%E0%A4%86%E0%A4%AA%E0%A4%95%E0%A5%87+%E0%A4%86%E0%A4%97%E0%A4%AE%E0%A4%A8+%E0%A4%95%E0%A5%87+%E0%A4%B2%E0%A4%BF%E0%A4%8F+%E0%A4%B9%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A4%BF%E0%A4%95+%E0%A4%A7%E0%A4%A8%E0%A5%8D%E0%A4%AF%E0%A4%B5%E0%A4%BE%E0%A4%A6+!!+%F0%9F%99%8F;Thank+you+for+visiting+!!+%F0%9F%99%8F" alt="Typing SVG" />
   </a>
+ 
 </p>
