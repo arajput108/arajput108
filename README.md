@@ -65,14 +65,6 @@
 </div>
 <br>
 
-
-<!---------------------------------------------------------- GitHub Trophies ------------------------------------------------------->
-<details>
-  <summary>🏆 GitHub Trophies:</summary>
-<p align="left"> <a href="https://github.com/asb1o8/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asb1o8" alt="asb1o8" /></a> </p>
-</details>
-
-
 <!---------------------------------------------------------- Achievements & Profile ------------------------------------------------------->
 <details>
  <summary>:zap: Achievements & Profile:</summary>
