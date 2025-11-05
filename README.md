@@ -31,12 +31,12 @@
 <!---------------------------------------------------------- Social Accounts ------------------------------------------------------->
 ## 🌐 Socials:
 <p align="left">
-<a href="https://www.linkedin.com/in/aakash-rajput-064b361b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash rajput" height="25" width="30" /></a>
-<a href="https://twitter.com/vajra93000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sureshdsk" height="25" width="30" /></a>
+<a href="https://www.linkedin.com/in/asb-1O8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aakash rajput" height="25" width="30" /></a>
+<a href="https://twitter.com/asb1o8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sureshdsk" height="25" width="30" /></a>
 <a href="https://tryhackme.com/p/KaalBhairav1O8" target="blank"><img align="center" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" alt="TryHackMe" height="30" width="50" /></a>
-<a href="https://medium.com/@kaaL_bh4iraV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kaaL_bh4iraV" height="20" width="30" /></a>  
+<a href="https://medium.com/@asb1o8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kaaL_bh4iraV" height="20" width="30" /></a>  
  <a href="https://discord.com/channels/@vajra93000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vajra93000" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/arajput108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/arajput108/" height="30" width="40" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/arajput108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/arajput108/" height="30" width="40" /></a> -->
 </p><br>
 
 
@@ -49,18 +49,18 @@
 <!---------------------------------------------------------- GitHub Stats -------------------------------------------------------->
 # 📊 GitHub Stats:
 <div align="center">
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arajput108&theme=github_dark" /><br>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asb1o8&theme=github_dark" /><br>
   
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arajput108&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arajput108&theme=github_dark"/> 
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asb1o8&theme=github_dark"/> 
   <br>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arajput108&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arajput108&theme=github_dark" />
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=arajput108&theme=nightowl&hide_border=false)
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=asb1o8&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asb1o8&theme=github_dark" />
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=asb1o8&theme=nightowl&hide_border=false)
   
  <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arajput108&theme=synthwave-84&true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asb1o8&theme=synthwave-84&true&hide_border=true" />
  </div>
 </div>
 <br>
@@ -69,7 +69,7 @@
 <!---------------------------------------------------------- GitHub Trophies ------------------------------------------------------->
 <details>
   <summary>🏆 GitHub Trophies:</summary>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arajput108" alt="arajput108" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arajput108" alt="asb1o8" /></a> </p>
 </details>
 
 
@@ -89,12 +89,12 @@
         <tr>
             <td style="border-right: 1px solid #dddddd; padding: 10px;" width="150">
                 <div style="float: left; margin-right: 20px;">
-                    <img src="https://github.com/arajput108/arajput108/blob/main/Images/Holopin-%201.png" alt="Holopin Badge" width="150" />
+                    <img src="https://github.com/arajput108/asb1o8/blob/main/Images/Holopin-%201.png" alt="Holopin Badge" width="150" />
                     <br>
                     <strong>Holopin Badge</strong>
                 </div>
                 <div style="float: right;">
-                    <img src="https://github.com/arajput108/arajput108/blob/main/Images/Early%20Bird%20Pegasaurus.png" alt="Pegasaurus Badge" width="150" />
+                    <img src="https://github.com/asb1o8/asb1o8/blob/main/Images/Early%20Bird%20Pegasaurus.png" alt="Pegasaurus Badge" width="150" />
                     <br>
                     <strong>Pegasaurus</strong>
                 </div>
@@ -109,10 +109,10 @@
 <details>
   <summary>🔝 Top Contributed Repo</summary>
   
-  ![](https://github-contributor-stats.vercel.app/api?username=arajput108&limit=5&theme=yeblu&combine_all_yearly_contributions=true) 
+  ![](https://github-contributor-stats.vercel.app/api?username=asb1o8&limit=5&theme=yeblu&combine_all_yearly_contributions=true) 
 </details>
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/arajput108)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/asb1o8)
 
  <p align="center">
     <a href="http://s01.flagcounter.com/more/hOw"><img src="https://s01.flagcounter.com/count2/hOw/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_16/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0" alt="Typing SVG" /> 
